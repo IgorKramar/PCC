@@ -1,4 +1,4 @@
-![PCC Logo](./images/facebook_cover_photo_1.png)
+![PCC Logo](./images/logo.png)
 
 # PCC
 
@@ -34,3 +34,6 @@ If you, at least 2 people, you can do the same challenge at the same time, setti
 Designate the time intervals (for example, 2-3 days). Then select two different technologies stacks to complete the project. At the end of the time period, change the developed code so that each of you faces different technology stacks. Become an agnostic in the world of technological glasses ;)
 #### God mode
 Choose at least 3 technocchic stacks (for example, React, Angular and Vue.js for the front -end). Perform each task for three stacks at once, creating three identical externally, but executed on different project technologies.
+
+## List of PCC's
+- [Trello PCC](./projects/Trello.md)
