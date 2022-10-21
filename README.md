@@ -1,8 +1,13 @@
 ![PCC Logo](./images/facebook_cover_photo_1.png)
 
 # PCC
-##### Perfect Clone Challenge is a way to get new skills and a portfolio project.
+
+***Perfect Clone Challenge is a way to get new skills and a portfolio project.***
+
 ---
+
+> “It has been my philosophy of life that difficulties vanish when faced boldly.” 
+> **Isaac Asimov**
 
 ### What is PCC?
 
