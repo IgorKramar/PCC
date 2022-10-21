@@ -18,6 +18,6 @@ Imagine that this thought has not visited Joel's bright head. But the need for s
 - These cards can be moved from one column to another, added or removed.
 - Oh yes, perhaps we will need several boards for different projects or parts of the project, so we want to see a list of boards, we want to add new boards, remove old ones or rename the existing ones.
 
-So, we have a simple hierarchical structure - App > Board> Column> Card.
+So, we have a simple hierarchical structure - App > Board > Column > Card.
 
 Let's start with this and try to sketch our first backend and frontend for our Perfect Clone!
