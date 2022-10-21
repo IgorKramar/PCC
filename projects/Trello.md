@@ -2,7 +2,7 @@
 
 ## Introductory words
 
-We all had to (or have to) face in our work with Kanban.Whether it be Trello, Asana, Jira or even a real physical board, you dragged these stickers from the column "in the work" in the column "made", feeling the pleasure of the work done.
+We all had to (or have to) face in our work with Kanban.Whether it be Trello, Asana, Jira or even a real physical board, you dragged these stickers from the column "in the work" in the column "done", feeling the pleasure of the work done.
 
 > Kanban (Japanese: カンバン and Chinese: 看板, meaning signboard or billboard) is a scheduling system for lean manufacturing (also called just-in-time manufacturing, abbreviated JIT). Taiichi Ohno, an industrial engineer at Toyota, developed kanban to improve manufacturing efficiency. The system takes its name from the cards that track production within a factory. Kanban is also known as the Toyota nameplate system in the automotive industry.
 > **Wikipedia**
