@@ -24,7 +24,7 @@ The essence of the challenge is that we take some existing technology or service
 - For convenience, for each PCC challenge, Trello Board will be created, which you can encourage yourself to completely simulate the real “combat” work on the project where you have tasks, their statuses and division into work blocks.
 - Each challenge should be independent of the technologies on which it can be implemented. If you want to add a new challeng for PCC, keep in mind this rule when compiling a challenge for a challenge. We can make the same Trello both on React and Vue.js, Angular, Svelte or Pure JS. Backend can be made on Node.js, and on Java, Python or any other stack. The tasks should not be attached to the technology, but only imitate the requirements of the "business" to the desired product.
 - You can perform a challenge both alone (and respect to you, if you do this :)), and collect the design team, distribute the tasks and carry out the challeng together (so you will bring the training project closer to reality).
-- Starting PCC Challenge, create a repository with the name of the **PCC-Challenge-YourLastName** (Or the name of your project team). So we can see that you participated in the challenge and add you to our list.
+- Starting PCC Challenge, create a repository with the name of the **PCC-ChallengeName-YourLastName** (Or the name of your project team). So we can see that you participated in the challenge and add you to our list.
 
 ### Gamification 
 For a more interesting fulfillment of challenges, you can choose one of the modes below.
